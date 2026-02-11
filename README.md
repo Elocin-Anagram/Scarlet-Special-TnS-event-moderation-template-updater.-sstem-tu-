@@ -1,0 +1,2 @@
+# Scarlet-Special-TnS-event-moderation-template-updater.-sstem-tu-
+The **Scarlet Template Automator** is a specialized PowerShell utility designed to manage the `report_template.txt` file used within the SybylineNetwork/Scarlet ecosystem. It allows administrators to schedule automated content swaps—such as adding event-specific information— without manual intervention or the need to modify application source code.
