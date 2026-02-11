@@ -23,4 +23,4 @@ The **Scarlet Template Automator** is a specialized PowerShell utility designed 
 2. Configure your dates in `config.txt`.
 3. Run `Install_Shortcut.bat` to enable persistence on boot.
 
-### **PLEASE MAKE SURE YOU READ THE READ ME.TXT FILE!**
+### **PLEASE MAKE SURE YOU READ THE READ ME.TXT FILE in Moderation_Temp_Updater.zip!**
